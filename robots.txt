@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://diffw.github.io/bible2460-web/sitemap.xml
