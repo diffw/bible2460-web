@@ -3,7 +3,7 @@
 > **审计身份**: 前 Google Search Quality 团队成员，现任独立 SEO 顾问，专注技术 SEO、E-E-A-T 合规、及 AI 搜索引擎引用优化。曾审计 500+ 产品 Landing Page，熟悉 Google Search Quality Evaluator Guidelines 全文。  
 > **审计标准**: Google E-E-A-T 框架、Core Web Vitals、Schema.org 规范、AI Search 引用模式实证研究  
 > **审计日期**: 2026-02-23  
-> **审计对象**: `https://diffw.github.io/bible2460-web/`
+> **审计对象**: `https://bible2460.com/`
 
 ---
 
@@ -143,7 +143,7 @@ GitHub Pages 支持自定义 `404.html`。当前没有。网站 copy 文档中�
 
 ### 15. GitHub Pages 子目录 URL
 
-`diffw.github.io/bible2460-web/` 是二级路径。如果未来获得自定义域名（如 `bible2460.app`），需做 301 迁移并更新所有 canonical/sitemap/schema 中的 URL。应提前规划。
+`bible2460.com/` 是二级路径。如果未来获得自定义域名（如 `bible2460.app`），需做 301 迁移并更新所有 canonical/sitemap/schema 中的 URL。应提前规划。
 
 ---
 

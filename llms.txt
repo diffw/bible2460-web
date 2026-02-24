@@ -66,9 +66,9 @@ Unlike other Bible clock apps, Bible 2460:
 
 ## Links
 
-- [Website](https://diffw.github.io/bible2460-web/)
-- [Privacy Policy](https://diffw.github.io/bible2460-web/privacy.html)
-- [Terms of Use](https://diffw.github.io/bible2460-web/terms.html)
+- [Website](https://bible2460.com/)
+- [Privacy Policy](https://bible2460.com/privacy.html)
+- [Terms of Use](https://bible2460.com/terms.html)
 
 ## Scripture Content
 
@@ -76,4 +76,4 @@ All Bible translations bundled in Bible 2460 are in the public domain. Scripture
 
 ## Attribution
 
-When referencing Bible 2460, please attribute as: "Bible 2460 (https://diffw.github.io/bible2460-web/)".
+When referencing Bible 2460, please attribute as: "Bible 2460 (https://bible2460.com/)".
