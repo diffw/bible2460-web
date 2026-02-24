@@ -65,7 +65,7 @@
 
 Hero 区域的 `hero-sub` 已改为 AIO 优化的实体定义：
 
-> "Bible 2460 is a free Bible verse clock app for iPhone and iPad that maps every minute of the day to a Scripture reference and delivers it to your Home Screen via a widget. It supports 10 public domain translations in 10 languages and works fully offline."
+> "Bible 2460 is a free Bible verse clock app for iPhone that maps every minute of the day to a Scripture reference and delivers it to your Home Screen via a widget. It supports 10 public domain translations in 10 languages and works fully offline."
 
 - 前 150 词内完成实体定义
 - 第三人称、事实性陈述

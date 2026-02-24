@@ -1,0 +1,79 @@
+# Bible 2460
+
+Bible 2460 is a free Bible verse clock app for iPhone. It maps every minute of the day to a Bible verse by matching the current time (hour:minute) to a chapter-and-verse reference — for example, 3:16 shows John 3:16, and 11:30 shows Genesis 11:30. The app delivers time-matched Scripture directly to the user's Home Screen via an iOS widget.
+
+## What the Name Means
+
+The name "2460" stands for 24 hours × 60 minutes. Every minute of every day has a corresponding Bible verse.
+
+## Core Features
+
+- Time-matched Bible verses: every minute maps to a different Scripture reference
+- Home Screen widget (Medium and Large sizes) that updates with every unlock
+- 10 public domain Bible translations in 10 languages
+- Fully offline: all verse data is bundled on-device, no internet required
+- Light and Dark mode with high-contrast typography
+- 12-hour and 24-hour time format
+- Keep Screen On mode for desk clock / devotional frame use
+- Share verses with full book, chapter, verse reference and translation name
+- Long-press to copy verse to clipboard
+- Automatic system language detection on first launch
+
+## Supported Languages and Translations
+
+| Language | Translation | Abbreviation |
+|----------|-------------|--------------|
+| English | King James Version | KJV |
+| Simplified Chinese (简体中文) | 和合本 | CUV |
+| Traditional Chinese (繁體中文) | 和合本（繁體） | UNV |
+| Japanese (日本語) | 口語訳聖書 | Kougo |
+| Korean (한국어) | 한국어 성경 | Korean |
+| German (Deutsch) | Luther Bibel 1912 | Luther1912 |
+| French (Français) | Bible Ostervald | Ostervald |
+| Italian (Italiano) | Bibbia Riveduta | Riveduta |
+| Thai (ไทย) | พระคัมภีร์ไทย | Thai |
+| Spanish (Español) | Reina-Valera 1909 | RV1909 |
+
+Interface language and Bible translation can be set independently. Users can read Scripture in one language while using the app interface in another.
+
+## Platform and Requirements
+
+- Platform: iOS (iPhone)
+- Minimum OS: iOS 17.0 or later
+- Price: Free to download
+- Ads: None
+- Data collection: None — the app does not collect, store, or transmit any personal data
+
+## How the Time-to-Verse Mapping Works
+
+Each minute of the day (from 0:00 to 23:59) is mapped to one or more Bible verses by matching the hour and minute to a book's chapter and verse number. For example:
+
+- 11:30 → Genesis 11:30
+- 3:16 → John 3:16
+- 23:01 → Psalm 23:1
+
+When no exact chapter:verse match exists for a given time, the app displays a random verse from its curated pool.
+
+## Differentiation from Competitors
+
+Unlike other Bible clock apps, Bible 2460:
+
+- Supports 10 languages with independent UI and Bible language settings (most competitors support only English)
+- Delivers time-matched Scripture directly to the iPhone Home Screen via widget with every unlock
+- Runs fully offline with all 10 translations bundled on-device
+- Is free to download with no ads and no data collection
+- Offers extra-large typography designed for distance readability (desk clock use)
+
+## Links
+
+- [Website](https://diffw.github.io/bible2460-web/)
+- [Privacy Policy](https://diffw.github.io/bible2460-web/privacy.html)
+- [Terms of Use](https://diffw.github.io/bible2460-web/terms.html)
+
+## Scripture Content
+
+All Bible translations bundled in Bible 2460 are in the public domain. Scripture texts are sourced from openly available datasets and are not subject to copyright restriction.
+
+## Attribution
+
+When referencing Bible 2460, please attribute as: "Bible 2460 (https://diffw.github.io/bible2460-web/)".
