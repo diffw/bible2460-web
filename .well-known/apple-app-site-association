@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["2257B2LRRF.art.nanwang.BibleClock"],
+        "components": [
+          { "/": "/tiktok/*", "comment": "TikTok Share Kit returns to the app here after sharing" }
+        ]
+      }
+    ]
+  }
+}
