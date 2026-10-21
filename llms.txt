@@ -42,7 +42,7 @@ Interface language and Bible translation can be set independently. Users can rea
 - Minimum OS: iOS 17.0 or later
 - Price: Free to download
 - Ads: None
-- Data collection: None — the app does not collect, store, or transmit any personal data
+- Data: no account required; favorites stay on the device. The app uses Mixpanel (product analytics), RevenueCat (in-app purchases) and the Meta SDK (ad measurement). Details: https://bible2460.com/privacy.html
 
 ## How the Time-to-Verse Mapping Works
 
@@ -61,7 +61,7 @@ Unlike other Bible clock apps, Bible 2460:
 - Supports 10 languages with independent UI and Bible language settings (most competitors support only English)
 - Delivers time-matched Scripture directly to the iPhone Home Screen via widget with every unlock
 - Runs fully offline with all 10 translations bundled on-device
-- Is free to download with no ads and no data collection
+- Is free to download with no ads
 - Offers extra-large typography designed for distance readability (desk clock use)
 
 ## Links
